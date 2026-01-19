@@ -1,0 +1,11 @@
+# ninja log v5
+1	237	1730212518293447573	src/CMakeFiles/archiver.dir/archiver.o	bfe3a7547c01da54
+1	304	1730212518360448344	src/CMakeFiles/archiver.dir/compress.o	1d3fcc13e55e97db
+1	273	1730212518330447999	src/CMakeFiles/archiver.dir/huffman.o	371fca6bb8fb847e
+595	710	1730202881962046314	src/archiver	420e7462528110e0
+1	236	1730212518293447573	src/CMakeFiles/archiver.dir/decompress.o	99ed66249c8da040
+1	375	1730376067654359429	src/CMakeFiles/archiver.dir/archiver.o	bfe3a7547c01da54
+1	380	1730376067659359606	src/CMakeFiles/archiver.dir/decompress.o	99ed66249c8da040
+0	393	1730376067672360068	src/CMakeFiles/archiver.dir/huffman.o	371fca6bb8fb847e
+1	467	1730376067745362660	src/CMakeFiles/archiver.dir/compress.o	1d3fcc13e55e97db
+467	519	1730376067799364578	src/archiver	1fd1249447d176dd
